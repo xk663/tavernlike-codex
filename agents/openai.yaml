@@ -1,0 +1,4 @@
+interface:
+  display_name: "SillyTavern Web"
+  short_description: "Build and repair browser-based LLM roleplay frontends"
+  default_prompt: "Use $sillytavern-web to inspect this project and implement the requested roleplay chat improvements in its existing stack."

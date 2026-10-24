@@ -1,0 +1,29 @@
+{
+  "name": "sillytavern-web",
+  "displayName": "SillyTavern Web for Codex",
+  "description": "Integrate and repair independent LLM roleplay frontends in their existing stack, with scoped lorebook, preset, streaming, and persistence workflows.",
+  "version": "3.0.0-codex.1",
+  "author": "ariespo",
+  "license": "MIT",
+  "type": "development",
+  "keywords": [
+    "sillytavern",
+    "lorebook",
+    "world-info",
+    "ai-chat",
+    "character-cards",
+    "automated",
+    "one-command"
+  ],
+  "platforms": [
+    "codex"
+  ],
+  "frameworks": [
+    "react",
+    "vue",
+    "vanilla"
+  ],
+  "entry": "SKILL.md",
+  "automated": false
+}
+
